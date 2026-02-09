@@ -9,6 +9,7 @@
   },
   "type": "module",
   "main": "src/abcdefghijklmnopqrstuvwxyz.js",
+  "types": "src/abcdefghijklmnopqrstuvwxyz.d.ts",
   "keywords": [
     "alphabet",
     "abcdefghijklmnopqrstuvwxyz"
